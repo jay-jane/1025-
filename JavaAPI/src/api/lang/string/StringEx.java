@@ -48,7 +48,7 @@ public class StringEx {
 		} else System.out.println("안됨");
 		
 		
-		//String클래스의 static메소드들
+		//String클래스의 static메소드
 		String cv = String.copyValueOf(new char[] {'a', 'b', 'c'}); //매개변수에 배열이 들어갈 경우 이런 식으로 입력 가능
 		System.out.println(cv);
 		
